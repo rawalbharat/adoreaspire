@@ -17,6 +17,8 @@
 
 
 - 🔭 I’m currently working on Portfolio and Github Project
+  
+- :memo: I’m currently preparing for interview
 
 - 🌱 I’m currently learning Spring Boot and Spring Security 
 
