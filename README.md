@@ -67,6 +67,4 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
-
-<br>
 <footer align='center'>README made with help of rahul sir </footer>
