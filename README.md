@@ -20,13 +20,13 @@
 
 - 🔭 I’m currently working on Github Project
   
-- :memo: I’m currently preparing for interview
+- :memo: I’m currently preparing for Interview
 
-- 🌱 I’m currently learning spring framework
-
-- 👯 I’m looking to collaborate on Projects, Tech Articles 
+- 🌱 I’m currently learning Spring Framework
 
 - 💬 Talk to me about Freelancing Opportunity
+
+- 👯 I’m looking to collaborate on Projects, Tech Articles 
   
 </div>
 
@@ -73,6 +73,10 @@
   </a>
 </div>
   
-<h2> Some Programming Humor for you <img align ='' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+<br><br><br>
+  
+<div align="left">
+  <h2> Some Programming Humor for you <img src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '24px'></h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+</div>
