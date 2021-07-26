@@ -24,7 +24,7 @@
   
 - :memo: I’m currently preparing for interview
 
-- 🌱 I’m currently learning Spring Boot and Spring Security
+- 🌱 I’m currently learning framework
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles 
 
