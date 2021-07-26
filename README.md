@@ -71,9 +71,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adoreaspire&theme=default" />
 </a>
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adoreaspire&" alt="adoreaspire" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adoreaspire&" alt="adoreaspire" /></p>
   
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-<footer align='center'>README made with @adoreaspire </footer>
+<footer align='left'>README made with @adoreaspire </footer>
 
