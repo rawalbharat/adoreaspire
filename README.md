@@ -11,7 +11,7 @@
 </div>
   
 <div size='20px'> 
-  Hi! My name is adore aspire. Thank You for taking the time to view my GitHub Profile :smile: 
+  Hi! My name is adore aspire. A passionate backend web developer from India. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <div>
