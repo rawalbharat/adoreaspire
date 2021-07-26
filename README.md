@@ -22,7 +22,7 @@
   
 - :memo: I’m currently preparing for interview
 
-- 🌱 I’m currently learning framework
+- 🌱 I’m currently learning spring framework
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles 
 
