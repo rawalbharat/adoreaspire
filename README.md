@@ -16,11 +16,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Portfolio and Github Project
+- 🔭 I’m currently working on Github Project
   
 - :memo: I’m currently preparing for interview
 
-- 🌱 I’m currently learning Spring Boot and Spring Security �
+- 🌱 I’m currently learning Spring Boot and Spring Security
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles 
 
@@ -44,8 +44,11 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/adoreaspire'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+  
 <a href = 'https://www.twitter.com/adoreaspire'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+  
 <a href = 'https://adoreaspire.gatsbyjs.io/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+  
 <a href = 'https://www.github.com/adoreaspire'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
@@ -65,6 +68,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adoreaspire&theme=radical" />
 </a>
 
+
+  <br>
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
