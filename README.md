@@ -26,7 +26,7 @@
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles 
 
-- 💬 Talk to me about Freelancing Opportunites, Open Source 
+- 💬 Talk to me about Freelancing Opportunity
   
 </div>
   
