@@ -74,6 +74,4 @@
     </a>  
 </div>
     
-<div align="left">
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-</div>
+
