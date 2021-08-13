@@ -75,5 +75,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adoreaspire&theme=default" />
 </a>
   
+[![adoreaspire's GitHub stats](https://github-readme-stats.vercel.app/api?username=adoreaspire)](https://github.com/anuraghazra/github-readme-stats)
+  
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-<footer align='left'>README made with @adoreaspire </footer>
+<footer align='left'>README made with @anuraghazra </footer>
