@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div>
 
-<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello < ... / >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 <p align='left'>
   <a href="https://twitter.com/adoreaspire" target="blank">
@@ -12,7 +12,7 @@
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=adoreaspire.adoreaspire)
 </p>
 
-<div size='20px'> Hi! My name is adore aspire. A passionate backend web developer from India. The things I learned by myself became the vast majority of what I know today <b>#AlwaysLearning</b> , Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is adore aspire. I'm just a simple human from India.
 </div>
 
 <h2> About Me </h2>
@@ -61,22 +61,29 @@
   <a href = 'https://www.github.com/adoreaspire'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px> </h2>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=adoreaspire&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=adoreaspire&compact=True&layout=compact"/>
 </a>
 <br>
 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='24px'> </h2>
  
-![adoreaspire's GitHub stats](https://github-readme-stats.vercel.app/api?username=adoreaspire&show_icons=true)  
+![adoreaspire's GitHub stats](https://github-readme-stats.vercel.app/api?username=adoreaspire&show_icons=true&count_private=true&theme=default)
+
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adoreaspire&" alt="adoreaspire"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoreaspire&layout=compact)](https://github.com/adoreaspire/gatsby)
+  
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adoreaspire&theme=default" />
 </a>
     
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-<footer align='left'>README made with @anuraghazra </footer>
-
   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adoreaspire&repo=portfolio)](https://github.com/adoreaspire/portfolio)
+ 
+<p>Thank You for taking the time to view my GitHub Profile :smile:</p>
+  
+<footer align='left'>README made with help of @anuraghazra </footer>
