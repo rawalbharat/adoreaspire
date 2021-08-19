@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **Spring Framework**  
 
-- 💬 Talk to me about **Freelancing Opportunities**
+- 💬 Talk to me about **Better Opportunities**
 
 - 👨‍💻 I’m looking to collaborate on **Projects,Tech Articles**
   
